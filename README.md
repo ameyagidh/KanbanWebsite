@@ -6,7 +6,10 @@ Certainly, here's the updated GitHub README template with your provided reposito
 
 A full-stack Kanban application built with the MERN (MongoDB, Express.js, React, Node.js) stack. This app allows users to manage tasks and projects using the Kanban board methodology.
 
+## Images
+<img width="1302" alt="Screenshot 2023-11-03 at 4 14 56 PM" src="https://github.com/ameyagidh/KanbanWebsite/assets/65457905/04f6831e-8ffb-4a7c-adda-e7490c3100b7">
 
+<img width="1340" alt="Screenshot 2023-11-03 at 4 16 17 PM" src="https://github.com/ameyagidh/KanbanWebsite/assets/65457905/024243fc-6fe8-4f7b-80c9-51063fceaff6">
 
 
 ## Features
